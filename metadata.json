@@ -2,5 +2,7 @@
   "name": "2048 Game",
   "description": "A classic, polished 2048 puzzle game with smooth animations, touch support, score tracking, and responsive design.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
